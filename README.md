@@ -9,6 +9,7 @@ This tool is intended to be a quick and easy way to edit common things with the 
 Easy!  If you have git installed, just run
 `git clone https://github.com/xenilen/ARKClientToolkit.git`
 If you don't, click the green code button, then click download download zip
+
 ![Download help](https://i.imgur.com/jei2cZZ.png)
 
 ![GUI Picture](https://i.imgur.com/mtGjYFA.png)
