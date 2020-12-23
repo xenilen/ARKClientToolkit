@@ -13,4 +13,4 @@ If you don't, click the green code button, then click download download zip.  Af
 ![GUI Picture](https://i.imgur.com/mtGjYFA.png)
 
 
-If you'd like your ini added to the tool, either x or message me on discord @ karates#1348
+If you'd like your ini added to the tool, either make a pull request or message me on discord @ karates#1348
