@@ -15,6 +15,9 @@ If you don't, click the green code button in the top-right, then click download 
 
 If you'd like your ini added to the tool, either make a pull request or message me on discord @ karates#1348
 
+## Example layout with Rev's ini + disabled water textures
+![Example picture](https://imgur.com/a/wCwRoLn)
 
 ## TODO
 - Global font
+- Toggle current settings with optimized PVP settings
