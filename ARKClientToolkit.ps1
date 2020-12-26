@@ -157,6 +157,6 @@ If ( $checkbox1.Text | Where { $_ -eq $(($Form.Controls | where {$_.checked -eq 
 
     # Check if the default diffuse asset backup exists and rename it
     If ( Test-Path $DefaultDiffuseAssetBackupPath ) {
-        Rename-Item -Path $DefaultDiffuseAssetPath -NewName $DefaultDiffuseAsset
+        Rename-Item -Path $DefaultDiffuseAssetBackupPath -NewName $DefaultDiffuseAsset
     }
 }
